@@ -111,7 +111,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📞 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Vaidik, The Mythic Architect: crazyphysicist999@gmail.com / github.com/Velthax
-x.com/GPhysicist3569 / Youtube.com/@velthaxe
+Vaidik, The Mythic Architect: crazyphysicist999@gmail.com / [github.com/Velthax]
+     [ https://x.com/GPhysicist3569 ]  / [Youtube.com/@velthaxe]
 
 Built with passion and precision, for those who don't ask permission.
