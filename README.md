@@ -79,16 +79,20 @@ Example of a Quote in your Post:
 
 <p>This is some regular paragraph text.</p>
 
-<blockquote>
+ <blockquote>
   <p>“Reality bends for those who don’t ask permission.”</p>
   <cite>— Vaidik, The Mythic Architect</cite>
-</blockquote>
+ </blockquote>
 
 <p>More content follows the quote.</p>
 
+
+
 Note: The theme provides default styling for blockquotes. You can further customize this in the Blogger Theme Designer or by editing the HTML.
 
-🤝 Contributinggithub.com/Velthax
+
+
+🤝 Contributing [github.com/Velthax]
 We welcome contributions! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -111,7 +115,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📞 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Vaidik, The Mythic Architect: crazyphysicist999@gmail.com / [github.com/Velthax]
-     [ https://x.com/GPhysicist3569 ]  / [Youtube.com/@velthaxe]
+Vaidik, The Mythic Architect: [crazyphysicist999@gmail.com] / [github.com/Velthax]
+     [ https://x.com/GPhysicist3569 ]  /  [Youtube.com/@velthaxe]
 
 Built with passion and precision, for those who don't ask permission.
