@@ -73,7 +73,7 @@ Click on the Customize dropdown and select Edit HTML.
 Caution: Make a backup of your theme before making direct HTML edits. Incorrect changes can break your blog's layout.
 
 Adding New Posts
-When writing new posts, you can utilize standard Markdown or HTML for your content. The theme includes specific styling for <blockquote> (quote) elements to make them visually prominent.
+When writing new posts, you can utilize standard Markdown or HTML for your content. The theme includes specific styling for <blockquote>  </blockquote>(quote) elements to make them visually prominent.
 
 Example of a Quote in your Post:
 
